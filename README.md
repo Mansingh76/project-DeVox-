@@ -1,7 +1,4 @@
-🎵 DeVox  
-" Separate. Create. Innovate.”
- [Live Demo](https://huggingface.co/spaces/AM-ANX/devox-ai-audio-separator) |
-
+**🎵 DeVox AI** | **[Live Demo](https://huggingface.co/spaces/AM-ANX/devox-ai-audio-separator)** - *AI-powered audio separation tool that splits music into vocal and instrumental tracks*
 
 DeVox is an **AI-powered web application** that allows users to upload any audio file (MP3, WAV, etc.) and instantly separate it into **instrumental** and **vocal-only** tracks.  
 Built for creators, DJs, and music enthusiasts, DeVox makes it simple to transform music into usable stems with just a few clicks.  
