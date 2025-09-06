@@ -1,0 +1,14 @@
+gradio==5.44.1
+soundfile==0.13.1
+librosa==0.11.0
+scikit-learn==1.7.1
+numba==0.61.2
+soxr==0.5.0.post1
+audioread==3.0.1
+decorator==5.2.1
+joblib==1.5.2
+pooch==1.8.2
+threadpoolctl==3.6.0
+lazy_loader==0.4
+msgpack==1.1.1
+platformdirs==4.4.0
